@@ -1,4 +1,3 @@
-# Gawonou-David_Code
+# Gawonou David Game Code
 
-salot, tu bois trop.
-jai compris
+## A mini game project 
